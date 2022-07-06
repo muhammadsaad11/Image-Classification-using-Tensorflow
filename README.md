@@ -1,4 +1,4 @@
-# Image-Classification-using-Tensorflow
+# Image-Classification-using-TensorFlow
 ## Language:
 -Python
 
